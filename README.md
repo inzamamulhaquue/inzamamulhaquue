@@ -24,17 +24,19 @@ Software Developer/CyberArk
 ## **Tech Toolbox🧰**<br>
 <p align="left">
 <a href="https://www.javaScript.org" target="_blank"> <img src="https://img.shields.io/badge/javaScript-FFD43B?style=for-the-badge&logo=javaScript&logoColor=darkgreen" alt="javaScript"/> </a>
+<a href="https://nodejs.org/" target="_blank"> <img src="https://img.shields.io/badge/nodejs-F37626.svg?&style=for-the-badge&logo=nodejs&logoColor=white"alt="nodejs"/> </a>
+<a href="https://mysql.org/" target="_blank"> <img src="https://img.shields.io/badge/mysql-EE4C2C?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
+<a href="https://mongodb.org/" target="_blank"> <img src="https://img.shields.io/badge/mongodb-F7931E?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
+<a href="https://expressjs.org/" target="_blank"> <img src="https://img.shields.io/badge/expressj-F37626.svg?&style=for-the-badge&logo=expressj&logoColor=white" alt="expressj"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/reactjs-F37626.svg?&style=for-the-badge&logo=reactjs&logoColor=white" alt="reactjs"/> </a>
+<a href="https://docker.org/" target="_blank"> <img src="https://img.shields.io/badge/docker-F37626.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
 <a href="https://www.python.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/python-000000.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<a href="https://colab.research.google.com/notebooks/" target="_blank"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab"/> </a>
-<a href="https://nodejs.org/" target="_blank"> <img src="https://img.shields.io/badge/nodejs-F37626.svg?&style=for-the-badge&logo=nodejs&logoColor=white" alt="nodejs"/> </a>
 <a href="https://docs.anaconda.com/anaconda/user-guide/tasks/integration/spyder/#:~:text=Spyder%2C%20the%20Scientific%20Python%20Development,%2C%20debugging%2C%20and%20introspection%20features.&text=Spyder%20is%20also%20pre%2Dinstalled,which%20is%20included%20in%20Anaconda." target="_blank"> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="Spyder"/> </a>
 <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
-<a href="https://mysql.org/" target="_blank"> <img src="https://img.shields.io/badge/mysql-EE4C2C?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
-<a href="https://mongodb.org/" target="_blank"> <img src="https://img.shields.io/badge/mongodb-F7931E?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
 
 
