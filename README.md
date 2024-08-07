@@ -1,12 +1,12 @@
 Hi, My name is Inzamamul Haque  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-Backend WEb Developer/CyberArk Security
+Backend Web Developer/CyberArk Security
 --------------
 
 *   🌍  I'm based in Pune
 *   ✉️  You can contact me at [shamasmarty@gmail.com](shamasmarty@gmail.com)
-*   🚀  I'm currently working on Backend developer, Mern Stack
+*   🚀  I'm currently working on Backend developer, Mern Stack, CyberArk.
 *   🧠  I'm learning React, Cyberark, OpenCV, and Generative AI to enhance my expertise and stay updated with the latest advancements in the field.
 *   ⚡  Exploring Authentication, Cyber security , React. Enhancing my skills in Mern Stack Developement and Cyber Ark.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inzamamulhaquue&label=Profile%20views&color=0e75b6&style=flat" alt="inzamamulhaquue" /> </p>
