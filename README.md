@@ -24,7 +24,7 @@ Backend Developer/CyberArk
 ## **Tech Toolbox🧰**<br>
 <p align="left">
 <a href="https://www.javaScript.org" target="_blank"> <img src="https://img.shields.io/badge/javaScript-FFD43B?style=for-the-badge&logo=javaScript&logoColor=darkgreen" alt="javaScript"/> </a>
-<a href="https://nodejs.org/" target="_blank"> <img src="https://img.shields.io/badge/nodejs-F37626.svg?&style=for-the-badge&logo=nodejs&logoColor=white"alt="nodejs"/> </a>
+<a href="https://nodejs.org/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-F37626.svg?&style=for-the-badge&logo=Node.js&logoColor=white"alt="Node.js"/> </a>
 <a href="https://mysql.org/" target="_blank"> <img src="https://img.shields.io/badge/mysql-EE4C2C?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
 <a href="https://mongodb.org/" target="_blank"> <img src="https://img.shields.io/badge/mongodb-F7931E?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
 <a href="https://expressjs.org/" target="_blank"> <img src="https://img.shields.io/badge/expressj-F37626.svg?&style=for-the-badge&logo=expressj&logoColor=white" alt="expressj"/> </a>
