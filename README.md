@@ -5,10 +5,10 @@ Backend Developer/CyberArk
 --------------
 
 *   🌍  I'm based in Pune
-*   ✉️  You can contact me at [shamasmarty@gmail.com](shamasmarty@gmail.com)
-*   🚀  I'm currently working on Backend developer, Mern Stack, CyberArk.
-*   🧠  I'm learning React, Cyberark, OpenCV, and Generative AI to enhance my expertise and stay updated with the latest advancements in the field.
-*   ⚡  Exploring Authentication, Cyber security , React. Enhancing my skills in Mern Stack Developement and Cyber Ark.
+*   ✉️  You can contact me at [inz01haq@gmail.com](inz01haq@gmail.com)
+*   🚀  I'm currently working on Backend developer, Node.js, CyberArk.
+*   🧠  I'm learning React, Docker, Microservices,, and Generative AI to enhance my expertise and stay updated with the latest advancements in the field.
+*   ⚡  Exploring Authentication, CyberArk , React. Enhancing my skills in Mern Stack Developement and Cyber Ark.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inzamamulhaquue&label=Profile%20views&color=0e75b6&style=flat" alt="inzamamulhaquue" /> </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -30,6 +30,7 @@ Backend Developer/CyberArk
 <a href="https://Express.js.org/" target="_blank"> <img src="https://img.shields.io/badge/Express.js-F37626.svg?&style=for-the-badge&logo=Express.js&logoColor=white" alt="Express.js"/> </a>
 <a href="https://React.org/" target="_blank"> <img src="https://img.shields.io/badge/React-F37626.svg?&style=for-the-badge&logo=React&logoColor=white" alt="React"/> </a>
 <a href="https://docker.org/" target="_blank"> <img src="https://img.shields.io/badge/docker-F37626.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
+<a href="https://CyberArk.org/" target="_blank"> <img src="https://img.shields.io/badge/CyberArk-F37626.svg?&style=for-the-badge&logo=CyberArk&logoColor=white"alt="CyberArk"/> </a>
 <a href="https://www.python.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/python-000000.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
