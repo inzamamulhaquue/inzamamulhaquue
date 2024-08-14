@@ -27,8 +27,8 @@ Backend Developer/CyberArk
 <a href="https://nodejs.org/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-F37626.svg?&style=for-the-badge&logo=Node.js&logoColor=white"alt="Node.js"/> </a>
 <a href="https://mysql.org/" target="_blank"> <img src="https://img.shields.io/badge/mysql-EE4C2C?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
 <a href="https://mongodb.org/" target="_blank"> <img src="https://img.shields.io/badge/mongodb-F7931E?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
-<a href="https://expressjs.org/" target="_blank"> <img src="https://img.shields.io/badge/expressj-F37626.svg?&style=for-the-badge&logo=expressj&logoColor=white" alt="expressj"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/reactjs-F37626.svg?&style=for-the-badge&logo=reactjs&logoColor=white" alt="reactjs"/> </a>
+<a href="https://Express.js.org/" target="_blank"> <img src="https://img.shields.io/badge/Express.js-F37626.svg?&style=for-the-badge&logo=Express.js&logoColor=white" alt="Express.js"/> </a>
+<a href="https://React.org/" target="_blank"> <img src="https://img.shields.io/badge/React-F37626.svg?&style=for-the-badge&logo=React&logoColor=white" alt="React"/> </a>
 <a href="https://docker.org/" target="_blank"> <img src="https://img.shields.io/badge/docker-F37626.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
 <a href="https://www.python.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/python-000000.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
