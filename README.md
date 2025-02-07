@@ -6,9 +6,9 @@ Mern Stack Developer/ NodeJs Developer
 
 *   🌍  I'm based in Pune
 *   ✉️  You can contact me at [inz01haq@gmail.com](inz01haq@gmail.com)
-*   🚀  I'm currently working on Backend developer, Node.js, CyberArk.
-*   🧠  I'm learning React, Docker, Microservices,, and Generative AI to enhance my expertise and stay updated with the latest advancements in the field.
-*   ⚡  Exploring Authentication, CyberArk , React. Enhancing my skills in Mern Stack Developement and Cyber Ark.
+*   🚀  I'm currently working on Full Stack Developer, React.js, Node.js, Mongodb, CyberArk.
+*   🧠  I'm learning Docker, Microservices,, and Generative AI to enhance my expertise and stay updated with the latest advancements in the field.
+*   ⚡  Exploring Authentication, CyberArk. Enhancing my skills in Expert Full Stack Developement and Cyber Ark.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inzamamulhaquue&label=Profile%20views&color=0e75b6&style=flat" alt="inzamamulhaquue" /> </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -24,6 +24,7 @@ Mern Stack Developer/ NodeJs Developer
 ## **Tech Toolbox🧰**<br>
 <p align="left">
 <a href="https://www.javaScript.org" target="_blank"> <img src="https://img.shields.io/badge/javaScript-FFD43B?style=for-the-badge&logo=javaScript&logoColor=darkgreen" alt="javaScript"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React.js-F37626.svg?&style=for-the-badge&logo=React.js&logoColor=white"alt="React.js"/> </a>
 <a href="https://nodejs.org/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-F37626.svg?&style=for-the-badge&logo=Node.js&logoColor=white"alt="Node.js"/> </a>
 <a href="https://mysql.org/" target="_blank"> <img src="https://img.shields.io/badge/mysql-EE4C2C?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
 <a href="https://mongodb.org/" target="_blank"> <img src="https://img.shields.io/badge/mongodb-F7931E?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
