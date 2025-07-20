@@ -6,7 +6,7 @@ Mern Stack Developer/ Full Stack Developer
 
 *   🌍  I'm based in Pune
 *   ✉️  You can contact me at [inz01haq@gmail.com](inz01haq@gmail.com)
-*   🚀  I'm currently working on Full Stack Developer, React.js, Node.js, Mongodb, CyberArk.
+*   🚀  I'm currently working on Full Stack Developer, React.js, Node.js, Mongodb, AWS, CyberArk.
 *   🧠  I'm learning Docker, Microservices,, and Generative AI to enhance my expertise and stay updated with the latest advancements in the field.
 *   ⚡  Exploring Authentication, CyberArk. Enhancing my skills in Expert Full Stack Developement and Cyber Ark.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inzamamulhaquue&label=Profile%20views&color=0e75b6&style=flat" alt="inzamamulhaquue" /> </p>
